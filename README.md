@@ -1,4 +1,4 @@
-# MOBIL-UYGULAMA-GIZLILIK-ANALIZI
+
 # Popüler Mobil Uygulamaların İzin Talepleri ve Veri Gizliliği Kapsamında Karşılaştırılması
 
 Bu proje, Google Play Store üzerinde en çok indirilen popüler **Sosyal Medya** ve **Mobil Oyun** uygulamalarının talep ettiği erişim izinlerini (konum, mikrofon, kamera, rehber vb.) inceleyerek veri gizliliği kapsamında karşılaştırmayı amaçlamaktadır.
