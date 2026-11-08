@@ -27,7 +27,9 @@ Sistemin temel yapısını oluşturan `Kategori`, `Uygulama`, `ErisimIzni` ve `A
 
 ---
 
+---
+
 ## 📈 6. Hafta Veri Analizi ve Ekip Katkıları
-- **Veri Seti:** `mobil_uygulama_izinleri.csv` (Google Play Store üzerinden 10 Sosyal Medya ve 10 Mobil Oyun uygulamasının erişim izin verileri)
-- **Analiz Notebook Dosyası:** `Hafta6_Proje_Veri_Analizi_Yusuf_Yurtman.ipynb`
+- **Veri Seti:** [`mobil_uygulama_izinleri.csv`](mobil_uygulama_izinleri.csv) (Google Play Store üzerinden 10 Sosyal Medya ve 10 Mobil Oyun uygulamasının erişim izin verileri)
+- **Analiz Notebook Dosyası:** [`Hafta6_Proje_Veri_Analizi_Yusuf_Yurtman.ipynb`](Hafta6_Proje_Veri_Analizi_Yusuf_Yurtman.ipynb)
 - **Proje Ekibi ve Görev Dağılımı:** Yusuf Yurtman (Bireysel Proje — Veri toplama, CSV veri yapılandırması, Python/Pandas ile betimsel istatistik analizi, Matplotlib görselleştirmesi ve akademik raporlama).
