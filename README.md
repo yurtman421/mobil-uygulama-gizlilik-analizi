@@ -24,3 +24,10 @@ Excel veri setinin sisteme yüklenmesinden başlayarak, uygulama izinlerinin tar
 Sistemin temel yapısını oluşturan `Kategori`, `Uygulama`, `ErisimIzni` ve `AnalizVeRapor` sınıflarını, bu sınıfların özelliklerini, metotlarını ve aralarındaki ilişkileri gösterir.
 
 ![Class Diagram](3_class_diagram.png)
+
+---
+
+## 📈 6. Hafta Veri Analizi ve Ekip Katkıları
+- **Veri Seti:** `mobil_uygulama_izinleri.csv` (Google Play Store üzerinden 10 Sosyal Medya ve 10 Mobil Oyun uygulamasının erişim izin verileri)
+- **Analiz Notebook Dosyası:** `Hafta6_Proje_Veri_Analizi_Yusuf_Yurtman.ipynb`
+- **Proje Ekibi ve Görev Dağılımı:** Yusuf Yurtman (Bireysel Proje — Veri toplama, CSV veri yapılandırması, Python/Pandas ile betimsel istatistik analizi, Matplotlib görselleştirmesi ve akademik raporlama).
